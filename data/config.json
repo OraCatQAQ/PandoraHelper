@@ -50,7 +50,7 @@
   },
   "security": {
     "2fa_secret": "",
-    "admin_password": ""
+    "admin_password": "12345678"
   },
   "share": {
     "custom": true,
